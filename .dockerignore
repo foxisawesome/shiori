@@ -1,6 +1,5 @@
-dev-data*
-docs
-!docs/swagger
-Dockerfile
+.git
+*_test.go
+testdata/
+docs/
 *.md
-/.*
