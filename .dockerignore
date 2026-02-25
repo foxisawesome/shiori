@@ -1,5 +1,6 @@
 .git
 *_test.go
 testdata/
-docs/
-*.md
+docs/*.md
+docs/assets/
+docs/postman/
